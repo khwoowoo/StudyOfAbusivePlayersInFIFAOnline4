@@ -2,9 +2,12 @@
 
 <!-- 
 [연구_2022_1학기_발표_3.pptx](https://github.com/rkdgusdn/study_abusing_fifiOnline4/files/8983987/_2022_1._._3.pptx)
+![개별연구_2022_1학기_발표_3](https://user-images.githubusercontent.com/23547185/175760544-6230213b-2a62-46a2-ad2b-95ec56695d01.png)
  -->
 
-![개별연구_2022_1학기_발표_3](https://user-images.githubusercontent.com/23547185/175760544-6230213b-2a62-46a2-ad2b-95ec56695d01.png)
+
+<img width="1010" alt="image" src="https://github.com/user-attachments/assets/438cf1db-ba98-408f-9f0e-6ab12ccc46b7">
+
 ![슬라이드2](https://user-images.githubusercontent.com/23547185/175760476-209cee29-7e7e-4991-96f6-5c05f72013a8.PNG)
 ![슬라이드3](https://user-images.githubusercontent.com/23547185/175760477-a4dbf484-179c-4d72-8429-05fb987ff401.PNG)
 ![슬라이드4](https://user-images.githubusercontent.com/23547185/175760478-96c65686-dc80-4dcb-b1eb-39fa7e02b486.PNG)
