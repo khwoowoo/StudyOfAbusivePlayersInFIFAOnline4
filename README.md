@@ -1,8 +1,8 @@
 # Study of abusive players in FIFA Online4
 
-
+<!-- 
 [연구_2022_1학기_발표_3.pptx](https://github.com/rkdgusdn/study_abusing_fifiOnline4/files/8983987/_2022_1._._3.pptx)
-
+ -->
 
 ![개별연구_2022_1학기_발표_3](https://user-images.githubusercontent.com/23547185/175760544-6230213b-2a62-46a2-ad2b-95ec56695d01.png)
 ![슬라이드2](https://user-images.githubusercontent.com/23547185/175760476-209cee29-7e7e-4991-96f6-5c05f72013a8.PNG)
@@ -16,13 +16,13 @@
 <!-- 
 ![슬라이드10](https://user-images.githubusercontent.com/23547185/175760484-e3ac56e6-4699-4172-9c30-de96e0b4ea87.PNG)
 ![슬라이드11](https://user-images.githubusercontent.com/23547185/175760485-63a89fc0-c594-4c13-b664-d2b3071a89d6.PNG)
-여기는 주석입니다. 리드미 파일에 표시되지 않습니다. -->
+ -->
 ![슬라이드12](https://user-images.githubusercontent.com/23547185/175760486-c3c00249-5f07-4225-8874-822c8ffceb52.PNG)
 <!-- 
 ![슬라이드13](https://user-images.githubusercontent.com/23547185/175760488-02ffbe0d-3c2c-4011-82c4-b6fb584725a4.PNG)
 ![슬라이드14](https://user-images.githubusercontent.com/23547185/175760489-e03e806e-7d61-4e05-846b-7667784d45f8.PNG)
 ![슬라이드15](https://user-images.githubusercontent.com/23547185/175760490-88aee99f-4578-4266-9096-180309703945.PNG)
-여기는 주석입니다. 리드미 파일에 표시되지 않습니다. -->
+ -->
 ![슬라이드16](https://user-images.githubusercontent.com/23547185/175760491-6c69a9f2-33c7-4e42-b2cd-10b02f363e74.PNG)
 ![슬라이드17](https://user-images.githubusercontent.com/23547185/175760492-ec7e6554-8d29-42a6-9419-dde6592f0711.PNG)
 ![슬라이드18](https://user-images.githubusercontent.com/23547185/175760493-25d50a9b-c2c2-424d-be45-d8dec48f9b82.PNG)
